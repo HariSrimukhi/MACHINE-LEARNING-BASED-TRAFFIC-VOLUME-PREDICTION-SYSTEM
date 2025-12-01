@@ -82,12 +82,6 @@ Mean Squared Error (MSE)
 
 R² Score
 
-📈 Results
-
-✅ Model Accuracy: XX% (replace with your result)
-
-📉 MSE: XX.XX
-
 🚗 The system can predict the approximate number of vehicles per hour/day based on the input parameters.
 
 💡 Future Enhancements
