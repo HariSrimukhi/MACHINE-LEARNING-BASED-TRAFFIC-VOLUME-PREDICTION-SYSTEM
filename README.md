@@ -35,14 +35,22 @@ Optional Web App	Flask / Streamlit
 Development Environment	Jupyter Notebook / VS Code
 📂 Project Structure
 Traffic-Volume-Prediction/
+
 │
 ├── data/                     # Dataset folder (CSV files)
+
 ├── notebooks/                # Jupyter notebooks for analysis
+
 ├── src/                      # Source code (preprocessing, model, etc.)
+
 ├── models/                   # Saved models
+
 ├── requirements.txt           # Dependencies
+
 ├── README.md                  # Project documentation
+
 ├── app.py                     # Web app file (if used)
+
 └── .gitignore
 
 🧪 How to Run the Project
